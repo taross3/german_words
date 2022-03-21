@@ -1,24 +1,23 @@
-Airport 
+Raesfeld: Municipality in Germany
+Flughafen: Airport 
 Berlin 
-Bratwurst 
-Hauptstrasse (A barber shop?)
-Bread 
-Air Conditioning 
-Rammstein (A rock band?) 
+Bratwurst: German Sausage
+Hauptstrasse: Main Road
+Brot: Bread 
+Klimaanlage: Air Conditioning 
+Rammstein: A rock band 
 Porsche
 BMW 
-beer garden 
-Ratskeller (A bar located in the basement of city hall
-Dirndel (Think of a stereotypical german woman's attire, or maybe a fantasy barmaid's dress)
-Lederhose (Funny pants)
-Castle 
-competitive 
-flour
-rabbit 
-pastries
-Baeckerei (Bakery) 
-Hund (Dog) 
-Doener (A type of kebab?) 
-apple pie
-Schloss (A door lock or a palace/manor)
-Eltz (A medieval castle)
+Biergarten: Beer Garden 
+Ratskeller: Council Room
+Dirndel: German Folk Costume
+Lederhose: Leather Pants
+Wettbewerbsfaehig: Competitive 
+Mehlhase: Flour Bunny
+Gebaeck: Pastries
+Baeckerei: Bakery 
+Hund: Dog 
+Doener: A type of kebab 
+Apfelkuchen: Apple Pie
+Schloss: A door lock or a palace/manor
+Eltz: A Medieval Castle
